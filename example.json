@@ -1,0 +1,33 @@
+{
+  "owner": [
+    "repo1":[
+      "collaborator1": [
+        "whogranted": data,
+        "whengranted": data,
+        "whygranted": data
+      ],
+      "collaborator2": [
+        "whogranted": data,
+        "whengranted": data,
+        "whygranted": data
+      ]
+    ]
+  "repo2":[
+      "collaborator1": [
+        "whogranted": data,
+        "whengranted": data,
+        "whygranted": data
+      ],
+      "collaborator2": [
+        "whogranted": data,
+        "whengranted": data,
+        "whygranted": data
+      ],
+      "collaborator3": [
+        "whogranted": data,
+        "whengranted": data,
+        "whygranted": data
+      ]
+    ]
+  ]
+}
