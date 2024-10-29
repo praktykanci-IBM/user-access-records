@@ -1,33 +1,41 @@
-{
-  "owner": [
-    "repo1": [
-      "collaborator1": [
-        "whogranted": "data",
-        "whengranted": "data",
-        "whygranted": "data"
-      ],
-      "collaborator2": [
-        "whogranted": "data",
-        "whengranted": "data",
-        "whygranted": "data"
+[
+   {
+      "owner":"owner1",
+      "repos":[
+         {
+            "name":"repo1",
+            "collaborators":[
+               {
+                  "name":"user1",
+                  "who_granted":"admin1",
+                  "when_granted":"12356781235678",
+                  "why_granted":"data"
+               },
+               {
+                  "name":"user2",
+                  "who_granted":"admin1",
+                  "when_granted":"12356781235678",
+                  "why_granted":"data"
+               }
+            ]
+         },
+         {
+            "name":"repo2",
+            "collaborators":[
+               {
+                  "name":"user1",
+                  "who_granted":"admin1",
+                  "when_granted":"12356781235678",
+                  "why_granted":"data"
+               },
+               {
+                  "name":"user2",
+                  "who_granted":"admin1",
+                  "when_granted":"12356781235678",
+                  "why_granted":"data"
+               }
+            ]
+         }
       ]
-  ],
-  "repo2":[
-      "collaborator1": [
-        "whogranted": "data",
-        "whengranted": "data",
-        "whygranted": "data"
-      ],
-      "collaborator2": [
-        "whogranted": "data",
-        "whengranted": "data",
-        "whygranted": "data"
-      ],
-      "collaborator3": [
-        "whogranted": "data",
-        "whengranted": "data",
-        "whygranted": "data"
-      ]
-    ]
-  ]
-}
+   }
+]
