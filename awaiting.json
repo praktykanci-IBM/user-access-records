@@ -1,5 +1,10 @@
 {
   "requests": [
-
+    {
+      "name": "user1",
+      "when": 123121321312321,
+      "justification": "testing",
+      "repo": "owner/repo"
+    }
   ]
 }
